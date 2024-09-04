@@ -1,0 +1,8 @@
+C:\Users\RAMOS\Downloads\Ejercicios-C#\7.FormatoLibreComentarios\7.FormatoLibreComentarios\obj\Debug\7.FormatoLibreComentarios.csproj.AssemblyReference.cache
+C:\Users\RAMOS\Downloads\Ejercicios-C#\7.FormatoLibreComentarios\7.FormatoLibreComentarios\obj\Debug\7.FormatoLibreComentarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAMOS\Downloads\Ejercicios-C#\7.FormatoLibreComentarios\7.FormatoLibreComentarios\obj\Debug\7.FormatoLibreComentarios.csproj.CoreCompileInputs.cache
+C:\Users\RAMOS\Downloads\Ejercicios-C#\7.FormatoLibreComentarios\7.FormatoLibreComentarios\bin\Debug\7.FormatoLibreComentarios.exe.config
+C:\Users\RAMOS\Downloads\Ejercicios-C#\7.FormatoLibreComentarios\7.FormatoLibreComentarios\bin\Debug\7.FormatoLibreComentarios.exe
+C:\Users\RAMOS\Downloads\Ejercicios-C#\7.FormatoLibreComentarios\7.FormatoLibreComentarios\bin\Debug\7.FormatoLibreComentarios.pdb
+C:\Users\RAMOS\Downloads\Ejercicios-C#\7.FormatoLibreComentarios\7.FormatoLibreComentarios\obj\Debug\7.FormatoLibreComentarios.exe
+C:\Users\RAMOS\Downloads\Ejercicios-C#\7.FormatoLibreComentarios\7.FormatoLibreComentarios\obj\Debug\7.FormatoLibreComentarios.pdb

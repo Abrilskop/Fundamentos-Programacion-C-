@@ -1,0 +1,8 @@
+C:\Users\RAMOS\Downloads\Ejercicios-C#\4.ContactoConVisualEstudio\4.ContactoConVisualEstudio\bin\Debug\4.ContactoConVisualEstudio.exe.config
+C:\Users\RAMOS\Downloads\Ejercicios-C#\4.ContactoConVisualEstudio\4.ContactoConVisualEstudio\bin\Debug\4.ContactoConVisualEstudio.exe
+C:\Users\RAMOS\Downloads\Ejercicios-C#\4.ContactoConVisualEstudio\4.ContactoConVisualEstudio\bin\Debug\4.ContactoConVisualEstudio.pdb
+C:\Users\RAMOS\Downloads\Ejercicios-C#\4.ContactoConVisualEstudio\4.ContactoConVisualEstudio\obj\Debug\4.ContactoConVisualEstudio.csproj.AssemblyReference.cache
+C:\Users\RAMOS\Downloads\Ejercicios-C#\4.ContactoConVisualEstudio\4.ContactoConVisualEstudio\obj\Debug\4.ContactoConVisualEstudio.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAMOS\Downloads\Ejercicios-C#\4.ContactoConVisualEstudio\4.ContactoConVisualEstudio\obj\Debug\4.ContactoConVisualEstudio.csproj.CoreCompileInputs.cache
+C:\Users\RAMOS\Downloads\Ejercicios-C#\4.ContactoConVisualEstudio\4.ContactoConVisualEstudio\obj\Debug\4.ContactoConVisualEstudio.exe
+C:\Users\RAMOS\Downloads\Ejercicios-C#\4.ContactoConVisualEstudio\4.ContactoConVisualEstudio\obj\Debug\4.ContactoConVisualEstudio.pdb

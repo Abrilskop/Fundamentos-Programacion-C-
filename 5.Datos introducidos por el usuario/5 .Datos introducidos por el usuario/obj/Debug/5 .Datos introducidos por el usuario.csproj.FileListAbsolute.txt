@@ -1,0 +1,16 @@
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5 .Datos introducidos por el usuario\5 .Datos introducidos por el usuario\obj\Debug\5 .Datos introducidos por el usuario.csproj.AssemblyReference.cache
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5 .Datos introducidos por el usuario\5 .Datos introducidos por el usuario\obj\Debug\5 .Datos introducidos por el usuario.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5 .Datos introducidos por el usuario\5 .Datos introducidos por el usuario\obj\Debug\5 .Datos introducidos por el usuario.csproj.CoreCompileInputs.cache
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5 .Datos introducidos por el usuario\5 .Datos introducidos por el usuario\bin\Debug\_5.Datos_introducidos_por_el_usuario.exe.config
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5 .Datos introducidos por el usuario\5 .Datos introducidos por el usuario\bin\Debug\_5.Datos_introducidos_por_el_usuario.exe
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5 .Datos introducidos por el usuario\5 .Datos introducidos por el usuario\bin\Debug\_5.Datos_introducidos_por_el_usuario.pdb
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5 .Datos introducidos por el usuario\5 .Datos introducidos por el usuario\obj\Debug\_5.Datos_introducidos_por_el_usuario.exe
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5 .Datos introducidos por el usuario\5 .Datos introducidos por el usuario\obj\Debug\_5.Datos_introducidos_por_el_usuario.pdb
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5.Datos introducidos por el usuario\5 .Datos introducidos por el usuario\bin\Debug\_5.Datos_introducidos_por_el_usuario.exe.config
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5.Datos introducidos por el usuario\5 .Datos introducidos por el usuario\bin\Debug\_5.Datos_introducidos_por_el_usuario.exe
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5.Datos introducidos por el usuario\5 .Datos introducidos por el usuario\bin\Debug\_5.Datos_introducidos_por_el_usuario.pdb
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5.Datos introducidos por el usuario\5 .Datos introducidos por el usuario\obj\Debug\5 .Datos introducidos por el usuario.csproj.AssemblyReference.cache
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5.Datos introducidos por el usuario\5 .Datos introducidos por el usuario\obj\Debug\5 .Datos introducidos por el usuario.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5.Datos introducidos por el usuario\5 .Datos introducidos por el usuario\obj\Debug\5 .Datos introducidos por el usuario.csproj.CoreCompileInputs.cache
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5.Datos introducidos por el usuario\5 .Datos introducidos por el usuario\obj\Debug\_5.Datos_introducidos_por_el_usuario.exe
+C:\Users\RAMOS\Downloads\Ejercicios-C#\5.Datos introducidos por el usuario\5 .Datos introducidos por el usuario\obj\Debug\_5.Datos_introducidos_por_el_usuario.pdb
